@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+ReachWave is the digital marketing agency near me that turns clicks into loyal customers. Amplify your brand with search engine marketing and word of mouth strategies that actually convert. Start growing today.
+
+### Services
+https://example.com/services
+From search engine marketing to word of mouth campaigns, ReachWave delivers full-spectrum marketing services built to dominate your market. Explore our proven solutions and see what&#39;s possible for your business.
+
+### About
+https://example.com/about
+ReachWave isn&#39;t just another marketing agency — we&#39;re growth partners obsessed with your success. Discover the passionate minds driving digital marketing results that local businesses brag about to everyone they know.
+
+### Contact
+https://example.com/contact
+Ready to find the best digital marketing agency near me? ReachWave is one message away from transforming your brand. Reach out now and let&#39;s build a word of mouth movement that puts you ahead of the competition.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
